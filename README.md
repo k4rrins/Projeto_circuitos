@@ -30,7 +30,9 @@ Quando o palpite coincide com o número sorteado, um LED específico é acionado
 
 ### Sistema de Proximidade
 
-Para tornar o jogo mais intuitivo, foi implementado um sistema baseado em LEDs RGB que indica o quão distante o palpite está do valor correto. Quanto menor a diferença entre os números, mais próximo o jogador está da resposta.
+Para tornar o jogo mais intuitivo, foi planejado um sistema baseado em LEDs RGB para indicar o quão distante o palpite está do valor correto. A proposta consiste em utilizar diferentes combinações de cores para representar a proximidade entre o valor informado pelo usuário e o número sorteado, permitindo ao jogador ajustar suas próximas tentativas de forma mais eficiente.
+
+* Esta funcionalidade ainda se encontra em fase de implementação no momento da elaboração desta documentação.
 
 ### Cálculo da Distância
 
