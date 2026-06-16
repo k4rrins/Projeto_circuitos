@@ -32,8 +32,6 @@ Quando o palpite coincide com o número sorteado, um LED específico é acionado
 
 Para tornar o jogo mais intuitivo, foi planejado um sistema baseado em LEDs RGB para indicar o quão distante o palpite está do valor correto. A proposta consiste em utilizar diferentes combinações de cores para representar a proximidade entre o valor informado pelo usuário e o número sorteado, permitindo ao jogador ajustar suas próximas tentativas de forma mais eficiente.
 
-* Esta funcionalidade ainda se encontra em fase de implementação no momento da elaboração desta documentação.
-
 ### Cálculo da Distância
 
 A distância entre os valores foi obtida a partir do módulo da diferença entre o número informado pelo usuário e o número sorteado.
