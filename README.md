@@ -49,6 +49,7 @@ Os resultados dessas comparações são então combinados por uma porta AND, de 
 
 Quando a igualdade é detectada, o LED de vitória é acionado, indicando que o jogador acertou o número.
 
+<img width="925" height="669" alt="Captura de tela 2026-06-23 155147" src="https://github.com/user-attachments/assets/85ac9b52-300e-4b5d-bb4d-6d59dc90e6a1" />
 
 ## Sistema de Proximidade
 
@@ -56,6 +57,7 @@ Para tornar o jogo mais intuitivo, foi implementado um sistema baseado em LED RG
 
 A cor apresentada varia de acordo com a distância entre os valores, permitindo que o usuário ajuste suas próximas tentativas.
 
+<img width="1058" height="825" alt="Captura de tela 2026-06-23 155111" src="https://github.com/user-attachments/assets/6ae4af1d-84b1-4199-afde-7cc65975d928" />
 
 # Cálculo da Distância
 
@@ -92,6 +94,7 @@ Foi desenvolvido um subcircuito específico responsável por verificar se o valo
 
 Essa informação é utilizada pelo módulo de diferença para determinar a ordem correta da subtração.
 
+<img width="689" height="911" alt="Captura de tela 2026-06-23 155319" src="https://github.com/user-attachments/assets/bbc6cb92-984d-408a-ab07-e3627e45671e" />
 
 # Subtrator Completo
 
@@ -105,6 +108,7 @@ O subcircuito utiliza:
 
 Essa implementação realiza a subtração bit a bit, produzindo tanto a diferença quanto os sinais necessários para o funcionamento do circuito.
 
+<img width="739" height="615" alt="image" src="https://github.com/user-attachments/assets/61f101c1-3d46-4bc7-93f9-1e1d14ea8676" />
 
 # Decodificador para Display de Sete Segmentos
 
@@ -113,7 +117,6 @@ Os displays de sete segmentos são controlados por um decodificador desenvolvido
 Cada segmento do display é acionado individualmente, permitindo a conversão dos valores binários em números decimais.
 
 O decodificador foi implementado manualmente, sem a utilização de componentes prontos do Logisim, proporcionando maior compreensão do funcionamento interno da conversão binário-decimal.
-
 
 # Componentes Utilizados
 
