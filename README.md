@@ -1,5 +1,5 @@
 # Projeto de Circuitos Digitais – Minigame de Adivinhação
-# Dupla: Douglas Ferreira de Souza e Levi Sena Araújo
+* Dupla: Douglas Ferreira de Souza e Levi Sena Araújo
 ## Descrição
 
 Este projeto foi desenvolvido utilizando o **Logisim ITA** e consiste em um minigame no qual o usuário deve adivinhar um número aleatório entre **0 e 15**, representado em binário.
