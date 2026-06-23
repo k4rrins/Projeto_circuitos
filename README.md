@@ -118,7 +118,7 @@ Cada segmento do display é acionado individualmente, permitindo a conversão do
 
 O decodificador foi implementado manualmente, sem a utilização de componentes prontos do Logisim, proporcionando maior compreensão do funcionamento interno da conversão binário-decimal.
 
-<img width="650" height="700" alt="eadd3fe4-8697-46b7-8ab5-2a55a3056155" src="https://github.com/user-attachments/assets/e4bed871-06ad-4ecf-a6b9-4e2d246063eb" /> <img width="800" height="400" alt="0e1dd6a5-b32b-4e66-a66d-98ef57135328" src="https://github.com/user-attachments/assets/43f0ec54-06cb-4b5d-8d56-778b8a4b2f6f" />
+<img width="550" height="600" alt="eadd3fe4-8697-46b7-8ab5-2a55a3056155" src="https://github.com/user-attachments/assets/e4bed871-06ad-4ecf-a6b9-4e2d246063eb" /> <img width="800" height="400" alt="0e1dd6a5-b32b-4e66-a66d-98ef57135328" src="https://github.com/user-attachments/assets/43f0ec54-06cb-4b5d-8d56-778b8a4b2f6f" />
 
 # Componentes Utilizados
 
