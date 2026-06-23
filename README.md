@@ -17,6 +17,7 @@ O circuito compara o valor informado com o número gerado internamente e fornece
 * Caso o valor esteja incorreto, o LED RGB indica o quão próximo o palpite está do número sorteado.
 * Os valores são exibidos em displays de sete segmentos para facilitar a visualização.
 
+<img width="923" height="678" alt="Captura de tela 2026-06-23 155034" src="https://github.com/user-attachments/assets/397f5be5-5ac2-40da-ab14-26e15fb53e53" />
 
 # Entradas e Controles
 
